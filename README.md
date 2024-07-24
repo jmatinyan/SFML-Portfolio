@@ -20,3 +20,7 @@ An animated character that moves in different directions based on user input. Th
 **Final Game: 2048**
 
 A remake of the famous 2048 game, featuring a fully functional grid system, tile merging mechanics, and a smooth user interface. This project combines complex logic and game rules to create a polished final product.
+
+
+https://github.com/user-attachments/assets/46234365-27ac-4c6b-8ee8-824e2edd079a
+
